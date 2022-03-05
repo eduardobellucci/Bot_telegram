@@ -1,4 +1,3 @@
-from pickle import TRUE
 import telebot
 chave_api='api'
 bot=telebot.TeleBot(chave_api)
